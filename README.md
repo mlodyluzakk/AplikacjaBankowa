@@ -1,8 +1,3 @@
-Zawsze pokazuj szczegóły
-
-Kopiuj
-# Re-create the README.txt file
-readme_content = """Aplikacja Bankowa
 
 Prosta aplikacja desktopowa WinForms w C# (.NET 6.0 Windows) do rejestracji i logowania użytkownika, obsługi SQLite oraz eksportu PDF (stub).
 
